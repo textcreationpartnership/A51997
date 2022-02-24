@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some short observations made on a book newly published by Mr. Benjamin Keach intituled, The breach repaired in God's worship, &amp;c. wherein is contained a pretended answer to Isaac Marlow's Brief discourse concerning singing in the publick worship of God; as also to an appendix, lately published, and thereunto added.</title>
+            <author>Marlow, Isaac.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51997</idno>
+            <idno type="STC">Wing M694B</idno>
+            <idno type="STC">ESTC R221787</idno>
+            <idno type="EEBO-CITATION">99833044</idno>
+            <idno type="PROQUEST">99833044</idno>
+            <idno type="VID">37519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37519)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2190:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some short observations made on a book newly published by Mr. Benjamin Keach intituled, The breach repaired in God's worship, &amp;c. wherein is contained a pretended answer to Isaac Marlow's Brief discourse concerning singing in the publick worship of God; as also to an appendix, lately published, and thereunto added.</title>
+                  <author>Marlow, Isaac.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: By Isaac Marlow.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Gathered in 4's.</note>
+                  <note>In response to Keach, Benjamin.  The breach repaired in God's worship.</note>
+                  <note>Copy cropped at head, affecting text.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keach, Benjamin, 1640-1704. --  Breach repaired in God's worship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37519:1"/>
+            <head>Some ſhort <hi>OBSERVATIONS</hi> made on a Book newly Publiſhed by Mr. <hi>Benjamin Keach,</hi> Intituled, <hi>The Breach repaired in God's Worſhip,</hi> &amp;c. wherein is contained a pre<g ref="char:EOLhyphen"/>tended Anſwer to <hi>Iſaac Marlow</hi>'s <hi>Brief Diſcourſe concerning Singing in the Pub<g ref="char:EOLhyphen"/>lick Worſhip of God;</hi> as alſo to an <hi>APPENDIX,</hi> lately publiſhed, and there<g ref="char:EOLhyphen"/>unto added.</head>
+            <p>IT is not without ſome Senſe that there is cauſe of Mourning for the occaſion that lays me under ſome neceſſity of making Remarks of this nature, on Mr. <hi>Keach</hi>'s Treatiſe of Singing, that I have given publick Birth unto this Paper. Had it been to preſerve my Perſonal Reputation only, I ſhould have born with much (as I ſhall herein be ſilent wherein I am provoked by his unjuſt reflections beyond the perceivance of any, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y barely reading his Book) rather than to have taken <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny ſuch way as this is, which I have no need of, to de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end my ſelf in any wrong received from any. But as I believe that my keeping Silence would give the greater Advantage to the ſpreading of the practice of that Er<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or among our Churches, which is received by ſome <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſons whom Mr. <hi>Keach</hi> hath now openly headed in <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e publick Defence thereof; and that the Truth will <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ffer, if I give not timely notice of his diſingenuous <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealings with me in this Concern: So I am ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in love to the Truth of Chriſt, to preſent this fol<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing Information to you, to prevent your credential
+<pb n="2" facs="tcp:37519:2"/>receiving of all that he hath taken out of my Book, and cited to you in his own, as my true Senſe and Meaning.</p>
+            <p>
+               <hi>Firſt;</hi> I ſhall take notice of Mr. <hi>Benj. Keach</hi>'s undue Citations and Miſrepreſenting of ſeveral things publick<g ref="char:EOLhyphen"/>ly to the World, to the great abuſe of my aforeſaid Book concerning Singing.</p>
+            <p n="1">1ſt. In <hi>page</hi> 12. the end, and <hi>pag.</hi> 13. he ſaith thus. <q>Now this being ſo, what is become of Mr. <hi>Marlow</hi>'s Eſſence of Singing? (who ſaith) what can be more plain, than that Singing, and other Gifts of the Holy Spirit, have their Eſſence in our Spirits, wherein we are capable of worſhipping God, without verbal and vocal Inſtruments of the Body? Theſe are his very Words. I anſwer (ſaith he) ſome have ſo ſmiled at this Expreſ<g ref="char:EOLhyphen"/>ſion, that they cannot tell what he intends by it, un<g ref="char:EOLhyphen"/>leſs he would ſhew himſelf skilful in Chymiſtry. But ſince he meddles with Divine Things, I muſt confeſs I am troubled to ſee ſuch kind of Words uſed, that no Body knows what to make of them. And—are we not as capable in our Spirits to worſhip God, in all other Ordinances, without the verbal or vocal Inſtruments of the Body, as well as in Singing without Voice, by your Argument?—.<hi>Pag.</hi> 14. you have ſaid more to juſtify the Quakers ſilent Meetings than you are aware of, <hi>&amp;c.</hi> And <hi>pag.</hi> 123. And (ſaith he) I am afraid you little think of the bitter Conſequents of this Attempt of yours, and how you ſeem hereby to ridicule (tho not wittingly, I have better Thoughts of you) the whole of Goſpel-Ordinances, by turning them into a thing you call Eſſence, a Heart-Service only, without the Bo<g ref="char:EOLhyphen"/>dily Organs, and rendring your ſelf to be but little bet<g ref="char:EOLhyphen"/>ter in your ſo doing, than a meer Enthuſiaſt.</q>
+            </p>
+            <p>
+               <hi>Rep.</hi> But how groſly I am here miſrepreſented an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> abuſed by Mr. <hi>K.</hi> appears from what follows <hi>pag.</hi> My Words are theſe, That Spiritual and Vocal Singin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:37519:2"/>was uſed in the Primitive and Apoſtolical Church of Chriſt, is undeniable; and that ſuch Spiritual Singing is allowed, is freely granted. And after my naming of the Firſt Head to be treated of, <hi>viz.</hi> The Eſſence of Singing in the ſame Page, <hi>&amp;c.</hi> it is ſaid, Tho intel<g ref="char:EOLhyphen"/>ligible Singing for teaching and admoniſhing others cannot be without the uſe of the Organical Inſtruments of the Voice, yet the <hi>Eſſence</hi> or Being of <hi>Singing</hi> con<g ref="char:EOLhyphen"/>ſiſts in an inward ſpiritual Exerciſe of the Soul or Mind of Man. And this muſt be granted: for we all do own that true Prayer may be made in our Hearts to God without the uſe of our Voice; otherwiſe we deny all worſhipping of God in the Church, ſave only what is done by the Miniſter, and exclude the Members of it from adding to, joining with, or having any ſhare in Divine Worſhip; and conſequently that nothing can be properly called Sin, that is only in the inward exerciſe of the Spirit, but that which is ſo manifeſted by Words or Deeds. <hi>Pag.</hi> 6. And then I ſpeak of the Eſſence of Sin and of Prayer. And afterwards in <hi>pag.</hi> 8. coming to diſcourſe of the Eſſence of Singing, and citing 1 <hi>Cor.</hi> 14.15. I ſay, True, this is meant of vocal Prayer and Singing in the Church; and in this ſame Page he taketh out what he cites unfairly to brand me with (as juſtifying the Quakers Silent Meetings, and turning the whole of Goſpel-Ordinances into a Heart-Service only: A thing I never thought of, and am as far from it as he or any others whatſoever:) for I farther ſay in the ſame Page, that tho vocal Joy and Singing may be teaching to others, yet the ſpeaking to (Gr. <hi>in</hi>) (according to <hi>Pool</hi>'s Annot. before cited) your ſelves <hi>viz.</hi> in your own Hearts) <hi>in Pſalms and Hymns, and ſpiritual Songs, ſinging and making Melody in your Heart to the Lord,</hi> is Muſick of an higher ſtrain,—in the Ears of God. So that tho in this Section is ſhewed
+<pb n="2" facs="tcp:37519:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:37519:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:37519:4"/>that God is to be worſhipped in our Spirits both in Prayer and Praiſes, yet it is evident that there is no ground from hence (nor in any part of my Book) to think that I ſhould intend an Excluſion of the vocal ex<g ref="char:EOLhyphen"/>erciſe of any of Chriſt's Ordinances in his Church; and therefore this Clamour rather proceeds from his Paſſion of Spirit with the badneſs of his Cauſe. Moreover, what I have here ſaid as to the Eſſence of Spiritual Singing, is ſecretly confeſſed by him in his Anſwer to <hi>Appendix, p.</hi> 42. where he ſaith of Singing; <hi>And yet (as I have ſhewed) the Eſſence of it is not in the Heart, as it is in the Voice.</hi> That is, if I miſtake not his Senſe, it is not in the Heart, like as it is in the Voice; ſo that it hath its Eſſence in the Heart as it is inward and ſpiritual, and in the Heart and Voice too as it is inward ſpiritual and vocal, in which we do both agree. But becauſe I find ſo much of his Diſcourſe againſt me depending on the parity and likeneſs of the Eſſence of Singing to the Eſ<g ref="char:EOLhyphen"/>ſence of Preaching (and not of Prayer, which he ac<g ref="char:EOLhyphen"/>knowledgeth may be only inwardly in the Heart, <hi>p.</hi> 174.) I ſhall hear treat ſomething further on it. In <hi>pag.</hi> 14. he ſaith, <hi>The Eſſence of Singing then (if that Word may be admitted) lies no more in our Spirits, than the Eſſence of Preaching,</hi> &amp;c.</p>
+            <p>
+               <hi>Repl.</hi> Not to ſpeak of their Compound, <hi>viz.</hi> our Spirits, or our Spirits and Voice with the Spirit and Word of God, I ſhall briefly ſay, That there is ſuch a difference in the ſignifications of the words <hi>Singing</hi> and <hi>Preaching,</hi> as will admit of a difference in their Eſſen<g ref="char:EOLhyphen"/>ces. Singing is a word of a tuning and muſical nature and ſignification, as you may ſee by the Latin words that are put for it, <hi>viz. cano, canto, pſallo, modulor;</hi> ſee <hi>Rider</hi>'s Dictionary: And therefore the word <hi>Sing</hi> is uſed to ſignify either an inward and ſpiritual muſical tu<g ref="char:EOLhyphen"/>ning of the Heart, or an inward and vocal muſical tu<g ref="char:EOLhyphen"/>ning
+<pb n="5" facs="tcp:37519:4"/>of the Heart and Voice, as the adjunct Matter treated of may demonſtrate; and accordingly the in<g ref="char:EOLhyphen"/>ward and ſpiritual, or inward ſpiritual and vocal Sing<g ref="char:EOLhyphen"/>ing, have their Eſſence. But as the word <hi>Preaching</hi> is more limited in its ſignification to outward Acts; for though the inward Eſſence of it conſidered under other names, as Meditation, Self-ſpeaking, or Self-edifying, 1 <hi>Cor.</hi> 14.4, 27, 28. may be only inwardly in our Hearts; yet the Eſſence of it, as properly conſidered from the ſignification of the Word, cannot be ſo confi<g ref="char:EOLhyphen"/>ned to the inward exerciſe of the Spirit, as the more unlimited ſignification of the word <hi>Singing</hi> may, be<g ref="char:EOLhyphen"/>cauſe the word <hi>Preach</hi> ſignifieth from its Latin words <hi>concionor,</hi> to preach, to make a publick Oration; <hi>Prae<g ref="char:EOLhyphen"/>dicator,</hi> a Publiſher or open Reporter, a Praiſer, a Preacher; <hi>Praedico,</hi> to divulge, to report, to publiſh, to noiſe abroad, <hi>&amp;c. Rid.</hi> Dict. And therefore the proper Eſſence of Preaching is inconſiſtent to the inward exerciſe of the Heart, without an outward act of De<g ref="char:EOLhyphen"/>claration, which muſt of neceſſity be taken into the Eſ<g ref="char:EOLhyphen"/>ſence of Preaching, without which it cannot poſſibly be. Now as the more limited word <hi>Preaching</hi> is uſed in the Scriptures for Publication, <hi>Iſa.</hi> 52.7. <hi>Rom.</hi> 10.15. ſo the more unlimited word <hi>Singing</hi> is uſed and applied in the holy Scriptures to an inward and ſpiritual melodious Exerciſe, as well as to inward and vocal Melody, as in <hi>Epheſ.</hi> 6.19. —<hi>Singing and making Melody in your Heart to the Lord.</hi> And <hi>Job</hi> 29.13. <hi>I cauſed the Widows Heart to ſing for Joy.</hi>
+            </p>
+            <p>To conclude this Matter; True ſpiritual vocal and miniſterial Singing for teaching and admoniſhing others, and ſpiritual vocal and miniſterial Preaching, are alike in Eſſence, tho not in degree of Attainment; ſuch Sing<g ref="char:EOLhyphen"/>ing being from an higher enjoyment of God through a fulneſs of the Spirit: But yet the one, <hi>viz.</hi> Singing, is
+<pb n="6" facs="tcp:37519:5"/>not alike in limitation of Eſſence to an outward act of Declaration, but may inwardly ſubſiſt in Eſſence with<g ref="char:EOLhyphen"/>out it: And the other, <hi>viz.</hi> Preaching, being limited to an outward Act, cannot exiſt only inwardly. What I have here inlarged upon, is to be helpful to remove that heap of Rubbiſh which he hath covered my Book withal, repreſenting it to the World contrary to what it is.</p>
+            <p n="2">2dly. In <hi>pag.</hi> 113. he citeth 1 <hi>Cor.</hi> 14.26. out of my Book <hi>p.</hi> 8. where for want of theſe words <hi>[nor can,]</hi> which I placed before the Text, the Senſe ſeems to ad<g ref="char:EOLhyphen"/>mit of a ſinging vocally all together, and ſo to confound the ſenſe of my Words, in contradiction of that which follows.</p>
+            <p n="3">3dly. In <hi>pag.</hi> 146. he ſaith, <hi>Your third Reply, That the Singing that was in the Temple was extraordinary, and ſo in the Apoſtles time.</hi>
+            </p>
+            <p>
+               <hi>Repl.</hi> But as I have no-where expreſſed my ſelf in this manner, ſo I have no-where made the Old-Teſta<g ref="char:EOLhyphen"/>ment-Temple a Type or Figure of the Apoſtles Time, but of the glorious Time of Chriſt's Kingdom; and have expreſly ſaid, that the firſt ſetting up of the Go<g ref="char:EOLhyphen"/>ſpel-Church is not the Antitype of <hi>David</hi>'s and <hi>Solo<g ref="char:EOLhyphen"/>mon</hi>'s Temple, but of <hi>Moſes</hi>'s Tabernacle, as you may ſee <hi>pag.</hi> 26, 27, 28.</p>
+            <p n="4">4thly. In <hi>pag.</hi> 150. (ſaith he) <hi>Your fifth Reply is, to that of Chriſt's and his Diſciples ſinging of an Hymn after the Supper,</hi> pag. 29. <hi>which (you ſay) might be no more than giving of Thanks, or ſaying Grace.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> But theſe Words, tho they are put for mine, yet they were never ſaid by me, neither did I ever de<g ref="char:EOLhyphen"/>termine whether Chriſt did or did not ſing at that Or<g ref="char:EOLhyphen"/>dinance: My Words in <hi>pag.</hi> 30. are, <hi>That Christ, a their Miniſter, hymned, and they in their Spirits joined with him, as</hi> Acts 4.24 to 32.</p>
+            <p n="5">5thly. In <hi>pag.</hi> 154. he ſaith, <hi>But you would not have
+<pb n="7" facs="tcp:37519:5"/>Old-Teſtament-Names given to New-Teſtament-Things in Singing.</hi>
+            </p>
+            <p>
+               <hi>Repl.</hi> But there is no ſuch Expreſſion in my whole Book, nor any thing that imports the ſame, but my words are theſe, <hi>pag.</hi> 35. <hi>No Old-Teſtament-Names do prove the nature of New-Teſtament-Things, as Cir<g ref="char:EOLhyphen"/>cumciſion, Cenſer, Incenſe, Altar, Sacrifice, Paſſeover,</hi> &amp;c. <hi>are all things of a different nature in the Old Teſta<g ref="char:EOLhyphen"/>ment, to what they are ſometimes uſed for in the New.</hi>
+            </p>
+            <p n="6">6thly. In <hi>pag.</hi> 155. ſaith he, <hi>The Subſtance of what you ſay to this is, That the Wicked—in regard they ſee not their Sins, nor need of a Christ, they have no cauſe to ſing.</hi>
+            </p>
+            <p>
+               <hi>Repl.</hi> But my words are theſe, pag. 37. <hi>And as they have not a true ſenſe of their Sins, nor ſee their need of Chriſt; ſo they know not that they have cauſe to ſing his Praiſe for their Being.</hi> It is one thing to ſay they have no cauſe to ſing, and a different thing to ſay they know not that they have cauſe ſo to do.</p>
+            <p n="7">7thly. In <hi>pag.</hi> 157. he ſaith; Object. 2. <hi>But, ſe<g ref="char:EOLhyphen"/>condly, you ſay, Every true Chriſtian, nor the Church of Christ in general, is able to ſing Praiſes to God in his publick Worſhip, becauſe the greater number of them have not attained to the Faith of Aſſurance.</hi>
+            </p>
+            <p>
+               <hi>Repl.</hi> But my Words are theſe, pag. 42. —<hi>Is not capable to ſing Praiſes to the Lord in his publick and [conſtant] Worſhip, and have not attained to [a ſuffici<g ref="char:EOLhyphen"/>ent] Faith of Aſſurance.</hi> Now for want of the word <hi>conſtant,</hi> which is a material word, on which much of our Controverſy does depend. His citation of me will ad<g ref="char:EOLhyphen"/>mit of a different Reply to what my own Words will do. And from <hi>pag.</hi> 172, unto the Concluſion in 185. tho he makes ſeveral Objections that may be eaſily taken for mine, yet I find but one of them that is taken out of my Book <hi>p.</hi> 47. cited by him in <hi>p.</hi> 177.</p>
+            <pb n="8" facs="tcp:37519:6"/>
+            <p n="9">9thly. In his Anſwer to my Appendix <hi>p.</hi> 21. he ſaith, <hi>What Authority have you to ſay, our Saviour and his Diſciples did not ſing? Or, what reaſon has any ſober or godly Chriſtian to believe you, if you ſo boldly affirm it? Therefore I, upon good Authority, in oppoſition to what you ſay,</hi> p. 12. <hi>that therefore from the ſignificati<g ref="char:EOLhyphen"/>on of the word</hi> Hymnos, <hi>there is a good and ſacred Foun<g ref="char:EOLhyphen"/>dation or Warrant for ſuch vocal melodious ſinging at or after the Lord's Supper,</hi> &amp;c.</p>
+            <p>
+               <hi>Repl.</hi> But conſider from what I have ſaid in <hi>Append. p.</hi> 12. whether I am not wronged in his Charge againſt me; my Words are theſe, <hi>And therefore there can be no foundation nor warrant from the word</hi> Hymnos <hi>for ſuch vocal melodious ſinging at or after the Lord's Sup<g ref="char:EOLhyphen"/>per, ſeeing the Word cannot be any proof either that Chriſt did or did not ſing at his Inſtitution of that Ordinance; and in that, as I have premiſed, God is otherways to be praiſed than by vocal ſinging.</hi>
+            </p>
+            <p n="10">10thly. In his Anſwer to <hi>Append.</hi> p. 33. he ſaith, <hi>'Tis a hard caſe that Women ſhould be debarred to ſpeak in any ſenſe, or any ways to break ſilence in the Church, as you affirm through a miſtake of the Text.</hi> 1. <hi>For then they muſt not ask a Friend how he or ſhe doth when in the Congregation.</hi> 2. <hi>She muſt not be ſuffered to be an E<g ref="char:EOLhyphen"/>vidence in the Church againſt any Offender, in the caſe of Diſcipline.</hi> 3. <hi>Then ſhe muſt not ask where the Text is, if ſhe comes too late,</hi> &amp;c.</p>
+            <p>
+               <hi>Repl.</hi> But conſider how theſe Words which are put for my meaning are incongruous to what I have ſaid in <hi>Append. pag.</hi> 32. The Section begins thus, That Wo<g ref="char:EOLhyphen"/>men ſhould not vocally ſing in the Worſhip of God in his Church, <hi>&amp;c.</hi> Note it well, for my Words do ex<g ref="char:EOLhyphen"/>preſs my meaning. And having there cited 1 <hi>Cor.</hi> 14.34. I farther ſay, that this Scripture, tho it hath ſuch a relation to the following Verſe, as to forbid the Wo<g ref="char:EOLhyphen"/>mens
+<pb n="9" facs="tcp:37519:6"/>asking of any Queſtion in the Church (<hi>as you may ſee, ver.</hi> 35.) during the Worſhip and Service of God therein; yet it intends more than barely to reſtrain them from ſuch a ſort of ſpeaking. And <hi>p.</hi> 33. ſhe muſt not teach the Man, nor vocally ſing. Which Expreſſions of mine do clearly ſhew my true meaning to be, that Wo<g ref="char:EOLhyphen"/>men are debarred from all vocal Exerciſe of any Gift in the Church, and that they ſhould not break their Silence during the Worſhip of God therein, according to 1 <hi>Cor.</hi> 14.34. and 1 <hi>Tim.</hi> 2.11, 12.</p>
+            <p n="11">11thly. In his Anſwer to <hi>Append. p.</hi> 41. he citeth my Words thus out of my Appendix p. 45. <hi>The leaſt exerciſe of true Grace in our Hearts in Prayer, gives eſſence or being to Prayer.</hi>
+            </p>
+            <p>
+               <hi>Repl.</hi> But my Words are theſe, <hi>gives eſſence or being to inward ſpiritual Prayer:</hi> for want of which words [inward ſpiritual,] my Senſe and Meaning there is greatly darkned, &amp; made ſubject to wrong Concluſions.</p>
+            <p n="12">12thly. In Anſwer to <hi>Append. p.</hi> 49. Mr. <hi>K</hi>'s Learned Hand (as he calls him) ſaith, that <hi>Ainſworth</hi> on <hi>Pſal.</hi> 3. intends nothing leſs than a Song of Praiſe, which is fitly compoſed to be ſung.</p>
+            <p>
+               <hi>Repl.</hi> But this is impoſing on Mr. <hi>A.</hi> that which he doth not expreſs, and rather wrongly applying what he there ſaith of the word <hi>Pſalmos</hi> unto the word <hi>Hymnos,</hi> which he renders ſimply Praiſe. And though he would alſo give a daſh to what I have ſaid from Dr. <hi>Owen,</hi> yet his Evidence ſtandeth firm, that <hi>Hymnos</hi> is not a limited word to Songs of Praiſe: for tho the Doctor makes the moſt of it to acommodate the word to the Old-Teſta<g ref="char:EOLhyphen"/>ment-Uſe in the Temple, as he more fully expreſſeth himſelf afterwards on <hi>Heb.</hi> 2.12. yet if he had not al<g ref="char:EOLhyphen"/>lowed its proper Signification to be ſimply Praiſe, his whole Expoſition of preaching the Goſpel would have been abſurd in contradiction to himſelf.</p>
+            <pb n="10" facs="tcp:37519:7"/>
+            <p n="13">13thly. In his Anſwer to <hi>Append. p.</hi> 55. his Learned Hand ſaith, the Author (<hi>viz.</hi> Mr. <hi>Tymme,</hi> who tranſla<g ref="char:EOLhyphen"/>ted <hi>Marlorate</hi>'s Expoſition on <hi>Matthew</hi> out of Latin into Engliſh) pretends it is uncertain —<hi>whether they ſang this Praiſe.</hi> (viz. in Matth. 26.30.) <hi>or ſpake it ſimply. The following Words of the Author</hi> (viz. Mar<g ref="char:EOLhyphen"/>lorate) <hi>not being well rendred by Mr.</hi> Tymme, <hi>I ſhall ſet down; they are theſe,</hi> Graecum verbum laudem qui<g ref="char:EOLhyphen"/>dem, maximè quae Deo debetur, non autem neceſſariò evincit quòd cecinerint; i. e. <hi>the Greek word indeed in<g ref="char:EOLhyphen"/>cludes Praiſe, chiefly that which is due to God; but un<g ref="char:EOLhyphen"/>doubtedly it doth evince that they ſang.</hi>
+            </p>
+            <p>
+               <hi>Repl.</hi> But obſerve, Reader, the Latin which is here duly cited out of <hi>Marlorate,</hi> is not rightly engliſhed, but abuſed by Mr. <hi>Keach</hi>'s Learned Hand; for it is thus in Engliſh, <hi>But it doth not neceſſarily evince that they ſang,</hi> agreeing in ſenſe to Mr. <hi>Tymme</hi>'s Tranſlation cited by me in <hi>Append. p.</hi> 12. But there being a noiſe ſpread abroad of ſome abuſe of this nature, Mr. <hi>Keach</hi> ſent me another of his Books, wherein this laſt Leaf was new re<g ref="char:EOLhyphen"/>printed, and duly corrected in the engliſhing of the La<g ref="char:EOLhyphen"/>tin, with this Addition, ſaith he, <hi>Hence I infer, that in the opinion of this Author it doth probably evince that they did ſing; and to me the Probability ſeems next to an abſolute Certainty.</hi> Which is ſuch a learned Jum<g ref="char:EOLhyphen"/>ble as I have never ſeen before.</p>
+            <p>
+               <hi>Secondly;</hi> I ſhall now take notice of ſeveral of Mr. <hi>Keach</hi>'s ſelf-Contradictions contained in his afore<g ref="char:EOLhyphen"/>ſaid Book. And,</p>
+            <p n="1">1. In <hi>P.</hi> 142. he ſaith. <hi>Object.</hi> But (ſay you) there is no Inſtitution for Womens ſinging. He anſwers. No need, 'tis a Moral Duty. From whence obſerve, that for want of an Inſtitution for Womens ſinging, he lays the whole Streſs and Warrant for it on the Moral Law, or Light of Nature, by which he is inclined to
+<pb n="11" facs="tcp:37519:7"/>conclude that <hi>Moſes</hi> and the Children of <hi>Iſrael</hi> ſung forth the Praiſes of God, <hi>pag.</hi> 30. But this is wholly overthrown by his own Argument, <hi>pag.</hi> 88. ſaith he, <q>If Chriſt and his Diſciples never practiſed nor injoyned on the Churches any Ordinance or Duty, but they left a ſufficient Rule how ſuch Ordinances or Duties ſhould be performed, and yet Chriſt and his Diſciples did ſing, and injoyned ſinging of Pſalms, <hi>&amp;c.</hi> on the Churches; then they left a ſufficient Rule how ſing<g ref="char:EOLhyphen"/>ing of Pſalms, <hi>&amp;c.</hi> ſhould be performed—otherwiſe it would reflect upon his Wiſdom and Faithfulneſs,</q> 
+               <hi>pag.</hi> 89. So that from his own arguing we muſt have ſomething more than the Moral Law, or Light of Na<g ref="char:EOLhyphen"/>ture, <hi>viz.</hi> the Rule of Chriſt for our manner of per<g ref="char:EOLhyphen"/>forming of Goſpel-Ordinances, and therefore there being no Inſtitution for Womens Singing, but a Pro<g ref="char:EOLhyphen"/>hibition by Chriſt, the Moral Law or Light of Nature cannot warrant their Practice of it.</p>
+            <p n="2">2. In <hi>Pag.</hi> 19. he ſaith from <hi>Exod.</hi> 32.17. <hi>And when</hi> Joſhua <hi>heard the Noiſe of the People, as [they ſhouted] he ſaid unto</hi> Moſes, <hi>There is War in the Camp,</hi> ver. 18. <hi>And he ſaid, it is not the Voice of them that ſhout for Maſtery, neither is it the Voice of them that cry for being overcome; but the Noiſe of them that ſing, do I hear.</hi> They that doubt about what the Act of Singing is, I deſire them to conſider this Text well, in which it is to be obſerved, that there are ſeveral di<g ref="char:EOLhyphen"/>ſtinct Acts vocally performed by the Tongue, and all Mankind eaſily diſtinguiſh the one from the other, un<g ref="char:EOLhyphen"/>leſs depraved in their Minds, or under a Deluſion and Temptation of Satan.</p>
+            <p>(1.) There is a ſhouting Noiſe of the Tongue, <hi>&amp;c.</hi> (2.) There is, it appears, a crying Noiſe likewiſe. (3.) There is a preaching Voice, or a Noiſe made that way. (4.) A praying or praiſing Voice. (5.) A
+<pb n="12" facs="tcp:37519:8"/>ſinging Voice. And all theſe diſtinct from each other. But when he comes to prove Singing an Ordinance of God, he ſhews us, that (crying) ſaying is ſinging; as in <hi>pag.</hi> 25. when the Diſciples rejoyced and ſang (as he ſaith) thoſe Hoſannahs to Jeſus Chriſt, <hi>Luke</hi> 19.38. where in citing the Text he leaveth out the firſt word of the Verſe, <hi>viz. [Saying] bleſſed,</hi> &amp;c. and reads it thus, <hi>Bleſſed be the King that cometh in the Name of the Lord; Peace in Heaven, and Glory in the higheſt;</hi> which both in <hi>Matthew</hi> and <hi>Mark</hi> is read, <hi>Cried, ſay<g ref="char:EOLhyphen"/>ing,</hi> &amp;c. And in <hi>pag.</hi> 26. he ſaith on this Text, There is no doubt to be made but they ſung, altho in none of the three Evangeliſts it is ſo called: But, <hi>Cried, ſaying,</hi> which before he proved from Scripture-Evidence to be a diſtinct vocal Act of the Tongue from the Voice of Singing. And he alſo bringeth other Scriptures of the ſame nature to prove Singing, as <hi>Luke</hi> 2.13. <hi>Praiſing God, and ſaying,</hi> he ſaith in <hi>pag.</hi> 42. was Singing: and <hi>pag.</hi> 44. To paſs by (ſaith he) the Song of <hi>Za<g ref="char:EOLhyphen"/>charias</hi> and <hi>Elizabeth,</hi> and <hi>Simeon,</hi> how ſweetly did <hi>Mary</hi> ſing? in all which places Singing is not once expreſſed; nor in the whole 148th Pſalm, which is cited <hi>ver.</hi> 1, 2. in <hi>pag.</hi> 33.</p>
+            <p n="3">3. In <hi>Pag.</hi> 63. he ſaith, They had an extraordinary Gift of Prayer, extraordinary Gifts to preach and han<g ref="char:EOLhyphen"/>dle a Doctrine, the like in interpreting and propheſy<g ref="char:EOLhyphen"/>ing; ſo no doubt likewiſe for ſinging (ſee alſo in his Anſwer to Appendix, <hi>pag.</hi> 28.) and in <hi>pag.</hi> 137. he ſaith, Doubtleſs what the Apoſtle did by an extraordi<g ref="char:EOLhyphen"/>nary Spirit in bringing in a Doctrine and an Interpreta<g ref="char:EOLhyphen"/>tion, <hi>&amp;c.</hi> is a Rule for us in the ordinary Gifts. But yet in <hi>pag.</hi> 142, 143. in anſwer to 1 <hi>Cor.</hi> 14.20, to 34. <hi>How is it then, Brethren? when ye come together, every one of you hath a Pſalm, hath a Doctrine, hath a Tongue,</hi> &amp;c. That (ſaith he) which you infer from
+<pb n="13" facs="tcp:37519:8"/>hence is, that this is the Rule (viz. <hi>in the following Verſes</hi>) for our Practice, <hi>viz.</hi> one by one, or one after another, muſt ſpeak and exerciſe their Gifts, and not all together; and ſo he that has the Gift of the Pſalm, he is ſingly, or alone, by himſelf to ſing, as in prayer and preaching. <hi>Anſw.</hi> (ſaith he) The Apo<g ref="char:EOLhyphen"/>ſtle directs that Church in the Exerciſe of extraordina<g ref="char:EOLhyphen"/>ry Gifts—And now, ſaith he, <hi>pag.</hi> 143. let this once and for ever be noted, and well heeded, <hi>viz.</hi> That the ordinary way of Adminiſtration of all Gifts, and Per<g ref="char:EOLhyphen"/>formance of all Ordinances in the Churches, muſt be the Rule for the extraordinary Gifts, and performance of Ordinances. Which is quite contrary to what he ſaid before: however, therein he does acknowledge and aſſert, that there is but one Rule for both the ordinary and extraordinary Gifts of the holy Spirit. And there<g ref="char:EOLhyphen"/>fore ſeeing he ſaith in <hi>pag.</hi> 143, 144. Now as to the Gift of Teaching, Interpreting, Propheſying, <hi>&amp;c.</hi> only one was to be the Mouth, (according to the fol<g ref="char:EOLhyphen"/>lowing Verſes;) and, ſaith he, to act contrary to this Rule is Confuſion. It then conſequently follows, not<g ref="char:EOLhyphen"/>withſtanding he makes a confuſed Exception of the Pſalm, that the ordinary Gifts, yea all the Gifts of the Spirit, and then muſt the Pſalm alſo be ſubject to the order of this Rule for delivery with a ſingle Voice one by one. And yet in <hi>pag.</hi> 145. we find him ſaying, What an endleſs ſtir is here of one Man's ſinging alone in the Exerciſe of an extraordinary Gift, which can<g ref="char:EOLhyphen"/>not be proved by the Wit of Man from the Text, much leſs, had it been ſo, would it have been a Rule to the Churches in ordinary Adminiſtrations of Chriſt's Ordinances? But theſe are Confuſions, Confuſions! how is he confounded in oppoſing the Truth?</p>
+            <p n="4">4. In <hi>pag.</hi> 147. he ſaith; For, as Singing, <hi>&amp;c.</hi> in the glorious time of the Goſpel were all done by an
+<pb n="14" facs="tcp:37519:9"/>extraordinary Spirit, or by miraculous Gifts; 'tis evi<g ref="char:EOLhyphen"/>dent therefore extraordinary Gifts — were not only ſuted (as you imagine) to tune their Hearts and Tongues to ſing the Praiſes of God only, but alſo to pray, preach, propheſy, <hi>&amp;c.</hi> (In that he ſaith that [I imagine it] it is a great Abuſe of me, for there is no ſuch thing in my whole Book, as to limit the extraor<g ref="char:EOLhyphen"/>dinary Gifts of the Spirit to Singing only). But yet in his Anſwer to <hi>Appendix,</hi> p. 26. citing <hi>Matth.</hi> 7.22. 1 <hi>Cor.</hi> 13.1. he ſaith: From whence it appears that inward Joy and Peace, of which you ſpeak, as the cauſe of ſinging in the Apoſtles time, did not flow from that extraordinary Gift of the Spirit, but from the ſaving Graces of the Spirit; — 1 <hi>Cor.</hi> 14.22. extraordinary Gifts were to convince Unbelievers of the Truth, and not for the Joy and Comfort of ſuch who did believe. Men that have the Gift of Tongues may be graceleſs, and ſo without Chriſt, and periſh eternally in Hell; therefore the extraordinary Gift of the Spirit fits not, tunes not the Heart nor Tongue to ſing the Praiſes of God, which is contrary to what he ſaid afore.</p>
+            <p>In <hi>pag.</hi> 173. he makes an Objection. <q>But we have no Command to ſing — either before or after Sermon,</q> nor any Precedent, <hi>&amp;c.</hi> His Anſwer is, <q>We have no Command to pray — either before or after Sermon; nor no Precedent that any Goſpel-Church did ſo,</q> 
+               <hi>&amp;c.</hi> And he makes a farther Objection; <q>But we are commanded to pray always, and that is a very con<g ref="char:EOLhyphen"/>venient time when the Word of God is preached,</q> 
+               <hi>&amp;c. Epheſ.</hi> 6.18. He ſaith in anſwer to it, <q>We are com<g ref="char:EOLhyphen"/>manded <hi>to rejoice evermore,</hi> &amp;c. 1 <hi>Theſſ.</hi> 5.16. <hi>Phil.</hi> 4.4, 6. — Beſides, the Preacher may pray before he comes out of his Cloſet, or ſecretly in his Heart when in the Pulpit, and anſwer thoſe general Precepts.—
+<pb facs="tcp:37519:9"/>And is it not as convement a time when we here of the Ex<g ref="char:EOLhyphen"/>cellencies of Jeſus Chriſt, — to ſing and praiſe God, as it is a proper Seaſon to pray to God for a Bleſſing upon the Word? There is the like parity of Reaſon for the one as for the other; if any has the advantage, it is the Ordinance of Singing, for two reaſons; the one is a Precept, the other a Precedent, <hi>Pſal.</hi> 100. 1. and 95.1, 2. — <hi>Exod.</hi> 15.1. <hi>Matth.</hi> 26.30.</q>
+            </p>
+            <p>
+               <hi>Repl.</hi> Surely it is now a time for us rather to mourn than to ſing, when ſuch an Eſſential part of publick Goſpel-Worſhip is ſo ſtrongly invaded. What, have we not a Precept for Prayer be<g ref="char:EOLhyphen"/>fore and after Sermon? will he deſtroy ſo great an Ordinance as Prayer is, as not being Eſſential to the publick Miniſterial Wor<g ref="char:EOLhyphen"/>ſhip of God, that he might the more exalt an Human Tradition? Is not that a ſufficient Precept in 2 Tim. 2.1, 14, 15. <hi>Theſe things I write unto thee — that thou mighteſt know how thou oughteſt to be<g ref="char:EOLhyphen"/>have thy ſelf in—the Church of the Living God.</hi> And what things theſe are he begins to tell us in ver. 1. <hi>I exhort therefore, that firſt of all, Supplications, Prayers, Interceſſions, and giving of Thanks be made for all Men,</hi> &amp;c. So that from the plain Word of God we ought to begin firſt with Prayer in his Publick Worſhip and Service in his Church, and thoſe general Commands to pray always with all Prayer. And in every thing by Prayer and Sup<g ref="char:EOLhyphen"/>plication, with Thankſgiving, to let our Requeſts be made known unto God. And to be giving Thanks always for all things, <hi>Phil.</hi> 4.6. <hi>Eph.</hi> 6.18. <hi>chap.</hi> 5.20. are binding on us to pray for the Bleſſing of God with his Word, and for the water<g ref="char:EOLhyphen"/>ing of it with his Spirit, together with giving of Thanks. But to ſay that the Miniſter may anſwer theſe Texts by praying ſe<g ref="char:EOLhyphen"/>cretly in his Heart, when in the Pulpit, or in his Cloſet, is de<g ref="char:EOLhyphen"/>ſtructive to his Official miniſtration of an eſſential Ordinance of Chriſt's publick Worſhip in the Church, which he unjuſtly, with<g ref="char:EOLhyphen"/>out the leaſt cauſe, reflects upon me for, while he is doing the ſame himſelf.</p>
+            <p>That Mr. <hi>Keach</hi>'s Learned Hand hath not been able to ſup<g ref="char:EOLhyphen"/>preſs the Evidence I have given of the true Signification of the word <hi>Hymneo,</hi> to praiſe, nor to charge me with any wrong Cita<g ref="char:EOLhyphen"/>tions of any thing out of thoſe Authors produced by me, may without any difficulty plainly appear to all who will read his Book and mine, which as it has ſtood his Teſt who has im<g ref="char:EOLhyphen"/>ployed his Learned Pen with impertinent and undeſcent Re<g ref="char:EOLhyphen"/>flections, to buffet the Truth I am pleading for; ſo I have no rea<g ref="char:EOLhyphen"/>ſon to doubt, but that my Cauſe will ſtand the trial of others alſo.
+<pb facs="tcp:37519:10"/>And therefore I do anert, that in <hi>Matth.</hi> 20.30. <hi>Mark</hi> 14.26. <hi>Acts</hi> 16.25. <hi>Heb.</hi> 2.12. The word <hi>Sung,</hi> nor <hi>Sing,</hi> is in none of theſe four Places in the Greek Tongue, where the word <hi>Hymneo</hi> to hymn, is uſed alone without the Addition of any other word that imports a Singing; which word <hi>Hymneo,</hi> ſigni<g ref="char:EOLhyphen"/>fies ſimply to praiſe, and is not confined to Songs of Praiſe, as I have abundantly ſhewed in my Appendix from divers Au<g ref="char:EOLhyphen"/>thors, and from the Evidence of our later Bibles now in uſe; in which in the Old-Teſtament, the Heb. word <hi>Tehillah,</hi> and the Gr. word <hi>Hymnos,</hi> are tranſlated ſimply Praiſe, without the addition of the word Sing; and from the teſtimony of ſix ſe<g ref="char:EOLhyphen"/>veral old Bibles, five of which are to be ſeen in <hi>Sion-Colledg, Lon<g ref="char:EOLhyphen"/>don.</hi> The aforeſaid four Scriptures having not the word Sung, nor Sing, are tranſlated ſimply Praiſe, <hi>Laus,</hi> to ſay Grace: to both which laſt Evidences he hath made no better reply than to ſay, that it is of little importance in clearing the preſent Controverſy.</p>
+            <p>To conclude, I have here given you a Taſte of Mr. <hi>K</hi>'s Book, ſo far as this ſingle Sheet would permit me; and do intend, if the Lord pleaſe, to anſwer what may ſeem to have greateſt Strength in it, leſt my Silence ſhould be miſunderſtood by any; though to ſpeak my Judgment, it little needeth a Reply: for he having taken no notice of many of my chiefeſt Arguments, and very ſlightly touched on the Borders (and not on the Strength) of ma<g ref="char:EOLhyphen"/>ny others, conſidering alſo what I have here preſented to you, his whole Book may be ſaid more properly to be a piece of Confuſion, and an Abuſe of my Book, rather than any Anſwer to it.</p>
+            <closer>
+               <signed>By <hi>Iſaac Marlow.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>MY Book within mentioned, is Intituled, <hi>Prelimited Forms of Praiſing God, Vocally ſung by all the Church together, proved to be no Goſpel-Ordinance.</hi> It is 8 Sheets of Paper, Price 6 <hi>d.</hi> I have alſo publiſhed a Book, Intituled, <hi>A Treatiſe of the Holy Trin<g ref="char:EOLhyphen"/>unity,</hi> in two Parts. The firſt <hi>aſſerteth the Deity of Jeſus Chriſt and the Holy Spirit in the <g ref="char:V">Ʋ</g>nity of Eſſence with God the Father.</hi> The Second <hi>in Defence of the former, anſwereth the chiefeſt Objections malt againſt this Doctrine.</hi> By <hi>I. M.</hi> Price bound 10 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for the Author, 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
